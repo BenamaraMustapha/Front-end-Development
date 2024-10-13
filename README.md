@@ -15,6 +15,6 @@ HTML, CSS and JavaScript
 <img src="https://github.com/user-attachments/assets/32c8cdd9-5646-4813-885d-95e6b8d5ef53">
 <br>
 <br>
-__________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________
 <h2> Explore further by running the code! </h2>
 <img src="https://github.com/user-attachments/assets/b234fdd5-2869-4eaf-a483-96e2d61667fb">
